@@ -3,6 +3,7 @@
 A Machine Learning web application built using **Streamlit** that predicts the estimated health insurance premium based on user information such as age, BMI category, medical history, smoking status, income level, employment type, region, etc.
 
 ---
+App url : https://ml-premium-prediction-app-project.streamlit.app/
 
 ## 🚀 Features
 - Predicts real-time insurance premium using ML model
